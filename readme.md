@@ -36,7 +36,4 @@ Architecture details:
 
 PRs are welcome.
 
-```
 
-Let me know if you want to append the checklist or license section.
-```
