@@ -1,6 +1,3 @@
-Sure, here's your README written in clean Markdown, preserving your style and with all links properly formatted:
-
----
 
 
 Please run `data.py` in the `trainers` folder first in the same directory where the training code lives.
