@@ -2,23 +2,23 @@ Sure, here's your README written in clean Markdown, preserving your style and wi
 
 ---
 
-````
+
 Please run `data.py` in the `trainers` folder first in the same directory where the training code lives.
 
 Sample usage:
-```bash
+```
 python train_muon.py --experiment_name muon
-````
+```
 
 For logging:
 
-```bash
+```
 python logger.py --experiment_name muon
 ```
 
 Sample for profiling:
 
-```bash
+```
 python train_muon.py --experiment_name muon --enable_profiling
 ```
 
