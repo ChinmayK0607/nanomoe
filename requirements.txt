@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+tabulate
+tqdm
+torch
+torchvision
+torchaudio
+mlflow
+tiktoken
+scipy
+PyYAML
